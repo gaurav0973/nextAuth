@@ -1,6 +1,7 @@
 Learnings from this Authentication applicatio 
 1. signup (frontend and backend logics)
 2. login (frontend and backend logics)
+3. logout (backend logic)
 
 Now after that I havea problem which is
 - I dont have a mechanism to protect my routes 
