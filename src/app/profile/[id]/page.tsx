@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 function UserProfile({params} : any) {
   const { id } = params;
   return (
